@@ -1,3 +1,3 @@
 # demoproj
 
-# some fun on the side
+some fun on the side
